@@ -1,0 +1,23 @@
+{
+  "name": "mf-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "deepmerge": "^4.2.2",
+    "mpath": "^0.7.0",
+    "readdirp": "^3.4.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
